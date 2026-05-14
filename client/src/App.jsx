@@ -154,7 +154,7 @@ setHistory((prev) => [
         <h1 className={`text-5xl font-extrabold text-center mb-2 ${
   darkMode ? "text-white" : "text-gray-900"
 }`}>
-          FX Flow
+          FX Flow DevOps
         </h1>
 
         <p className={`text-center mb-8 ${
