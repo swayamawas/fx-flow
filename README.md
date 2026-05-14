@@ -94,15 +94,26 @@ CI/CD is configured using:
 GitHub Actions
 SCP Deployment
 SSH Key Authentication
-📸 Screenshots
-<img width="1396" height="526" alt="image" src="https://github.com/user-attachments/assets/0808bc16-e178-40eb-acb6-aa3f638031d3" />
-<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/d9013154-93f3-47cc-8616-c4f5fadba870" />
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![Homepage](./screenshots/home.png)
+
+---
 
 
 
+---
 
-Add your project screenshots here
+### 🚀 CI/CD Pipeline
 
+![CI/CD](./screenshots/cicd.png)
+
+#Nginx setup
+
+![Nginx](./screenshots/nginx.png)
 👨‍💻 Author
 Swayam Awasthi
 GitHub: https://github.com/swayamawas
